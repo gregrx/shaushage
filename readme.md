@@ -1,3 +1,3 @@
 # shaushage
 
-Just | sh it
+just | sh it
